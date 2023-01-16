@@ -6,13 +6,13 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
+global.owner = ['923080613785'] 
+global.mods = ['9230806137859'] 
 global.prems = ['6285822347348'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
+global.nameowner = 'Devil ✰'
+global.numberowner = '923080613785'
 global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/warikrr'
 global.dana = '085822347348'
